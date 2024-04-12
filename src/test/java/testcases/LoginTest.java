@@ -9,6 +9,9 @@ import pages.AccountPage;
 import pages.HomePage;
 import pages.LoginPage;
 
+//Some changes in Test case 3 -  for - git testing
+
+
 //Login scenarios - 4 test cases
 public class LoginTest extends Base{
 
